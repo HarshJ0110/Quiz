@@ -1,0 +1,51 @@
+export const data = [
+    {
+        question: "How many days are there in a week?",
+        option1: "1",
+        option2: "7",
+        option3: "5",
+        option4: "2",
+        ans: 2,
+    },
+    {
+        question: "What is the National song of India?",
+        option1: "La Marcha Real",
+        option2: "Hymn to Liberty",
+        option3: "Jana Gana Mana",
+        option4: "Vande Mataram",
+        ans: 4,
+    },
+    {
+        question: "Rainbow consist of how many colours",
+        option1: "10",
+        option2: "15",
+        option3: "3",
+        option4: "7",
+        ans: 4,
+    },
+    {
+        question: "Which animal is known as the 'Ship of the Desert?",
+        option1: "Elephant",
+        option2: "Camel",
+        option3: "Lion",
+        option4: "Cow",
+        ans: 2,
+    },
+    {
+        question: "Name the National bird of India?",
+        option1: "Sparrow",
+        option2: "Owl",
+        option3: "Peacock",
+        option4: "Penguin",
+        ans: 3,
+    },
+    {
+        question: "Name the National fruit of India?",
+        option1: "Mango",
+        option2: "Grapes",
+        option3: "Orange",
+        option4: "Pomegranate",
+        ans: 1,
+      },
+
+];
